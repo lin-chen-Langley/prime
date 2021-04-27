@@ -1,21 +1,24 @@
-from setuptools import setup
+import setuptools
  
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
  
-setup(
+setuptools.setup(
+    setup_requires=[
+        'pytest-runner',
+    ],
     name='linlangleyprime', # a unique name for PyPI
-    version='0.3',
+    version='0.5',
+    author='Lin Chen, Yanhua Feng',
+    author_email='lin.chen@ieee.org, yf@vims.edu',
     description='Demo for building a Python project',
-    author='Lin Chen',
-    author_email='lin.chen@ieee.org',
-    url='http://lin-chen-va.github.io',
-    install_requires=requirements,
-    packages=['primepackage', ], # packages and subpackages containing .py files
-    package_dir={'':'src'}, # location to find the packages
-    scripts=['src/generator',], # the executable files will be installed for user
-    license='Creative Commons Attribution-Noncommercial-Share Alike license',
     long_description=open('README.md').read(),
+    long_description_content_type="text/markdown",
+    url='http://lin-chen-langley.github.io',
+    project_urls = {
+        'PyPI': 'https://pypi.org/manage/project/linlangleyprime/releases/',
+        'Conda': 'https://anaconda.org/linchenVA/linlangleyprime'
+        },
     classifiers=[
       'Development Status :: 4 - Beta',
       'Environment :: X11 Applications :: GTK',
@@ -27,4 +30,11 @@ setup(
       'Topic :: Desktop Environment',
       'Topic :: Text Processing :: Fonts'
       ],
+    install_requires=requirements,
+    package_dir={'':'src'}, # location to find the packages
+    packages=setuptools.find_packages(where="src"),
+    #packages=['primepackage', ], # packages and subpackages containing .py files
+    python_requires=">=3.9",
+    scripts=['src/generator',], # the executable files will be installed for user
+    license='Creative Commons Attribution-Noncommercial-Share Alike license',
 )
