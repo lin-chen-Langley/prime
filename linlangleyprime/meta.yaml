@@ -1,0 +1,40 @@
+{% set name = "linlangleyprime" %}
+{% set version = "0.3" %}
+
+package:
+  name: "{{ name|lower }}"
+  version: "{{ version }}"
+
+source:
+  url: "https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz"
+  sha256: 5c7c41ba47d6b0226a4d66e3be34642298c64e7c8ea1d9675cefd0a7a6f4d7e0
+
+build:
+  number: 0
+  script: "{{ PYTHON }} -m pip install . -vv"
+
+requirements:
+  host:
+    - certifi ==2020.12.5
+    - pip
+    - python
+  run:
+    - certifi ==2020.12.5
+    - python
+
+test:
+  imports:
+    - primepackage
+
+about:
+  home: "http://lin-chen-va.github.io"
+  license: "GNU General Public (GPL)"
+  license_family: LGPL
+  license_file: 
+  summary: "Demo for building a Python project"
+  doc_url: 
+  dev_url: 
+
+extra:
+  recipe-maintainers:
+    - your-github-id-here
