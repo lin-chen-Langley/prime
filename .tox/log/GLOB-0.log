@@ -11,120 +11,120 @@ reading manifest file 'src/linlangleyprime.egg-info/SOURCES.txt'
 reading manifest template 'MANIFEST.in'
 writing manifest file 'src/linlangleyprime.egg-info/SOURCES.txt'
 running check
-creating linlangleyprime-0.5
-creating linlangleyprime-0.5/doc
-creating linlangleyprime-0.5/doc/_build
-creating linlangleyprime-0.5/doc/_build/html
-creating linlangleyprime-0.5/doc/_build/html/_sources
-creating linlangleyprime-0.5/doc/_build/html/_static
-creating linlangleyprime-0.5/src
-creating linlangleyprime-0.5/src/linlangleyprime.egg-info
-creating linlangleyprime-0.5/src/primepackage
-creating linlangleyprime-0.5/test
-copying files to linlangleyprime-0.5...
-copying LICENSE -> linlangleyprime-0.5
-copying MANIFEST.in -> linlangleyprime-0.5
-copying README.md -> linlangleyprime-0.5
-copying pyproject.toml -> linlangleyprime-0.5
-copying requirements.txt -> linlangleyprime-0.5
-copying setup.cfg -> linlangleyprime-0.5
-copying setup.py -> linlangleyprime-0.5
-copying doc/_build/html/.buildinfo -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/genindex.html -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/index.html -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/modules.html -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/objects.inv -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/primepackage.html -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/py-modindex.html -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/search.html -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/searchindex.js -> linlangleyprime-0.5/doc/_build/html
-copying doc/_build/html/_sources/index.rst.txt -> linlangleyprime-0.5/doc/_build/html/_sources
-copying doc/_build/html/_sources/modules.rst.txt -> linlangleyprime-0.5/doc/_build/html/_sources
-copying doc/_build/html/_sources/primepackage.rst.txt -> linlangleyprime-0.5/doc/_build/html/_sources
-copying doc/_build/html/_static/basic.css -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/classic.css -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/doctools.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/documentation_options.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/file.png -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/jquery-3.5.1.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/jquery.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/language_data.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/minus.png -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/plus.png -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/prime.jpeg -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/pygments.css -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/searchtools.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/sidebar.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/underscore-1.12.0.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying doc/_build/html/_static/underscore.js -> linlangleyprime-0.5/doc/_build/html/_static
-copying src/generator -> linlangleyprime-0.5/src
-copying src/linlangleyprime.egg-info/PKG-INFO -> linlangleyprime-0.5/src/linlangleyprime.egg-info
-copying src/linlangleyprime.egg-info/SOURCES.txt -> linlangleyprime-0.5/src/linlangleyprime.egg-info
-copying src/linlangleyprime.egg-info/dependency_links.txt -> linlangleyprime-0.5/src/linlangleyprime.egg-info
-copying src/linlangleyprime.egg-info/requires.txt -> linlangleyprime-0.5/src/linlangleyprime.egg-info
-copying src/linlangleyprime.egg-info/top_level.txt -> linlangleyprime-0.5/src/linlangleyprime.egg-info
-copying src/primepackage/__init__.py -> linlangleyprime-0.5/src/primepackage
-copying src/primepackage/primeio.py -> linlangleyprime-0.5/src/primepackage
-copying src/primepackage/primemodule.py -> linlangleyprime-0.5/src/primepackage
-copying test/test_is_prime.py -> linlangleyprime-0.5/test
-copying test/test_suit.py -> linlangleyprime-0.5/test
-Writing linlangleyprime-0.5/setup.cfg
-creating '.tox/dist/linlangleyprime-0.5.zip' and adding 'linlangleyprime-0.5' to it
-adding 'linlangleyprime-0.5'
-adding 'linlangleyprime-0.5/test'
-adding 'linlangleyprime-0.5/doc'
-adding 'linlangleyprime-0.5/src'
-adding 'linlangleyprime-0.5/PKG-INFO'
-adding 'linlangleyprime-0.5/LICENSE'
-adding 'linlangleyprime-0.5/requirements.txt'
-adding 'linlangleyprime-0.5/pyproject.toml'
-adding 'linlangleyprime-0.5/MANIFEST.in'
-adding 'linlangleyprime-0.5/README.md'
-adding 'linlangleyprime-0.5/setup.py'
-adding 'linlangleyprime-0.5/setup.cfg'
-adding 'linlangleyprime-0.5/test/test_suit.py'
-adding 'linlangleyprime-0.5/test/test_is_prime.py'
-adding 'linlangleyprime-0.5/doc/_build'
-adding 'linlangleyprime-0.5/doc/_build/html'
-adding 'linlangleyprime-0.5/doc/_build/html/_sources'
-adding 'linlangleyprime-0.5/doc/_build/html/_static'
-adding 'linlangleyprime-0.5/doc/_build/html/index.html'
-adding 'linlangleyprime-0.5/doc/_build/html/modules.html'
-adding 'linlangleyprime-0.5/doc/_build/html/searchindex.js'
-adding 'linlangleyprime-0.5/doc/_build/html/py-modindex.html'
-adding 'linlangleyprime-0.5/doc/_build/html/.buildinfo'
-adding 'linlangleyprime-0.5/doc/_build/html/genindex.html'
-adding 'linlangleyprime-0.5/doc/_build/html/search.html'
-adding 'linlangleyprime-0.5/doc/_build/html/primepackage.html'
-adding 'linlangleyprime-0.5/doc/_build/html/objects.inv'
-adding 'linlangleyprime-0.5/doc/_build/html/_sources/modules.rst.txt'
-adding 'linlangleyprime-0.5/doc/_build/html/_sources/primepackage.rst.txt'
-adding 'linlangleyprime-0.5/doc/_build/html/_sources/index.rst.txt'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/plus.png'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/underscore.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/prime.jpeg'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/classic.css'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/documentation_options.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/searchtools.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/file.png'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/sidebar.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/jquery-3.5.1.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/language_data.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/minus.png'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/basic.css'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/pygments.css'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/doctools.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/underscore-1.12.0.js'
-adding 'linlangleyprime-0.5/doc/_build/html/_static/jquery.js'
-adding 'linlangleyprime-0.5/src/linlangleyprime.egg-info'
-adding 'linlangleyprime-0.5/src/primepackage'
-adding 'linlangleyprime-0.5/src/generator'
-adding 'linlangleyprime-0.5/src/linlangleyprime.egg-info/PKG-INFO'
-adding 'linlangleyprime-0.5/src/linlangleyprime.egg-info/SOURCES.txt'
-adding 'linlangleyprime-0.5/src/linlangleyprime.egg-info/requires.txt'
-adding 'linlangleyprime-0.5/src/linlangleyprime.egg-info/top_level.txt'
-adding 'linlangleyprime-0.5/src/linlangleyprime.egg-info/dependency_links.txt'
-adding 'linlangleyprime-0.5/src/primepackage/primemodule.py'
-adding 'linlangleyprime-0.5/src/primepackage/__init__.py'
-adding 'linlangleyprime-0.5/src/primepackage/primeio.py'
-removing 'linlangleyprime-0.5' (and everything under it)
+creating linlangleyprime-0.7
+creating linlangleyprime-0.7/doc
+creating linlangleyprime-0.7/doc/_build
+creating linlangleyprime-0.7/doc/_build/html
+creating linlangleyprime-0.7/doc/_build/html/_sources
+creating linlangleyprime-0.7/doc/_build/html/_static
+creating linlangleyprime-0.7/src
+creating linlangleyprime-0.7/src/linlangleyprime.egg-info
+creating linlangleyprime-0.7/src/primepackage
+creating linlangleyprime-0.7/test
+copying files to linlangleyprime-0.7...
+copying LICENSE -> linlangleyprime-0.7
+copying MANIFEST.in -> linlangleyprime-0.7
+copying README.md -> linlangleyprime-0.7
+copying pyproject.toml -> linlangleyprime-0.7
+copying requirements.txt -> linlangleyprime-0.7
+copying setup.cfg -> linlangleyprime-0.7
+copying setup.py -> linlangleyprime-0.7
+copying doc/_build/html/.buildinfo -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/genindex.html -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/index.html -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/modules.html -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/objects.inv -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/primepackage.html -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/py-modindex.html -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/search.html -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/searchindex.js -> linlangleyprime-0.7/doc/_build/html
+copying doc/_build/html/_sources/index.rst.txt -> linlangleyprime-0.7/doc/_build/html/_sources
+copying doc/_build/html/_sources/modules.rst.txt -> linlangleyprime-0.7/doc/_build/html/_sources
+copying doc/_build/html/_sources/primepackage.rst.txt -> linlangleyprime-0.7/doc/_build/html/_sources
+copying doc/_build/html/_static/basic.css -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/classic.css -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/doctools.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/documentation_options.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/file.png -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/jquery-3.5.1.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/jquery.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/language_data.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/minus.png -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/plus.png -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/prime.jpeg -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/pygments.css -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/searchtools.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/sidebar.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/underscore-1.12.0.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying doc/_build/html/_static/underscore.js -> linlangleyprime-0.7/doc/_build/html/_static
+copying src/generator -> linlangleyprime-0.7/src
+copying src/linlangleyprime.egg-info/PKG-INFO -> linlangleyprime-0.7/src/linlangleyprime.egg-info
+copying src/linlangleyprime.egg-info/SOURCES.txt -> linlangleyprime-0.7/src/linlangleyprime.egg-info
+copying src/linlangleyprime.egg-info/dependency_links.txt -> linlangleyprime-0.7/src/linlangleyprime.egg-info
+copying src/linlangleyprime.egg-info/requires.txt -> linlangleyprime-0.7/src/linlangleyprime.egg-info
+copying src/linlangleyprime.egg-info/top_level.txt -> linlangleyprime-0.7/src/linlangleyprime.egg-info
+copying src/primepackage/__init__.py -> linlangleyprime-0.7/src/primepackage
+copying src/primepackage/primeio.py -> linlangleyprime-0.7/src/primepackage
+copying src/primepackage/primemodule.py -> linlangleyprime-0.7/src/primepackage
+copying test/test_is_prime.py -> linlangleyprime-0.7/test
+copying test/test_suit.py -> linlangleyprime-0.7/test
+Writing linlangleyprime-0.7/setup.cfg
+creating '.tox/dist/linlangleyprime-0.7.zip' and adding 'linlangleyprime-0.7' to it
+adding 'linlangleyprime-0.7'
+adding 'linlangleyprime-0.7/test'
+adding 'linlangleyprime-0.7/doc'
+adding 'linlangleyprime-0.7/src'
+adding 'linlangleyprime-0.7/PKG-INFO'
+adding 'linlangleyprime-0.7/LICENSE'
+adding 'linlangleyprime-0.7/requirements.txt'
+adding 'linlangleyprime-0.7/pyproject.toml'
+adding 'linlangleyprime-0.7/MANIFEST.in'
+adding 'linlangleyprime-0.7/README.md'
+adding 'linlangleyprime-0.7/setup.py'
+adding 'linlangleyprime-0.7/setup.cfg'
+adding 'linlangleyprime-0.7/test/test_suit.py'
+adding 'linlangleyprime-0.7/test/test_is_prime.py'
+adding 'linlangleyprime-0.7/doc/_build'
+adding 'linlangleyprime-0.7/doc/_build/html'
+adding 'linlangleyprime-0.7/doc/_build/html/_sources'
+adding 'linlangleyprime-0.7/doc/_build/html/_static'
+adding 'linlangleyprime-0.7/doc/_build/html/index.html'
+adding 'linlangleyprime-0.7/doc/_build/html/modules.html'
+adding 'linlangleyprime-0.7/doc/_build/html/searchindex.js'
+adding 'linlangleyprime-0.7/doc/_build/html/py-modindex.html'
+adding 'linlangleyprime-0.7/doc/_build/html/.buildinfo'
+adding 'linlangleyprime-0.7/doc/_build/html/genindex.html'
+adding 'linlangleyprime-0.7/doc/_build/html/search.html'
+adding 'linlangleyprime-0.7/doc/_build/html/primepackage.html'
+adding 'linlangleyprime-0.7/doc/_build/html/objects.inv'
+adding 'linlangleyprime-0.7/doc/_build/html/_sources/modules.rst.txt'
+adding 'linlangleyprime-0.7/doc/_build/html/_sources/primepackage.rst.txt'
+adding 'linlangleyprime-0.7/doc/_build/html/_sources/index.rst.txt'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/plus.png'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/underscore.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/prime.jpeg'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/classic.css'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/documentation_options.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/searchtools.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/file.png'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/sidebar.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/jquery-3.5.1.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/language_data.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/minus.png'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/basic.css'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/pygments.css'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/doctools.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/underscore-1.12.0.js'
+adding 'linlangleyprime-0.7/doc/_build/html/_static/jquery.js'
+adding 'linlangleyprime-0.7/src/linlangleyprime.egg-info'
+adding 'linlangleyprime-0.7/src/primepackage'
+adding 'linlangleyprime-0.7/src/generator'
+adding 'linlangleyprime-0.7/src/linlangleyprime.egg-info/PKG-INFO'
+adding 'linlangleyprime-0.7/src/linlangleyprime.egg-info/SOURCES.txt'
+adding 'linlangleyprime-0.7/src/linlangleyprime.egg-info/requires.txt'
+adding 'linlangleyprime-0.7/src/linlangleyprime.egg-info/top_level.txt'
+adding 'linlangleyprime-0.7/src/linlangleyprime.egg-info/dependency_links.txt'
+adding 'linlangleyprime-0.7/src/primepackage/primemodule.py'
+adding 'linlangleyprime-0.7/src/primepackage/__init__.py'
+adding 'linlangleyprime-0.7/src/primepackage/primeio.py'
+removing 'linlangleyprime-0.7' (and everything under it)

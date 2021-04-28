@@ -7,8 +7,9 @@ setuptools.setup(
     setup_requires=[
         'pytest-runner',
     ],
+    tests_require=['pytest'],
     name='linlangleyprime', # a unique name for PyPI
-    version='0.5',
+    version='0.7',
     author='Lin Chen, Yanhua Feng',
     author_email='lin.chen@ieee.org, yf@vims.edu',
     description='Demo for building a Python project',
